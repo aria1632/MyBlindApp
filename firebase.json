@@ -1,0 +1,28 @@
+{
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  },
+  "database": {
+    "rules": "database.rules.json"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "blindchat-4edd4",
+          "appId": "1:38292541591:android:24acfcb2cf21a05a22d9d2",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "blindchat-4edd4",
+          "configurations": {
+            "android": "1:38292541591:android:24acfcb2cf21a05a22d9d2"
+          }
+        }
+      }
+    }
+  }
+}

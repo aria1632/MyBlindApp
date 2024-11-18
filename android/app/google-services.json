@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "38292541591",
+    "firebase_url": "https://blindchat-4edd4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "blindchat-4edd4",
+    "storage_bucket": "blindchat-4edd4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38292541591:android:24acfcb2cf21a05a22d9d2",
+        "android_client_info": {
+          "package_name": "com.example.blind_diary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbSLwg4aj96QzZCjxWUm94cgimBVq1zos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

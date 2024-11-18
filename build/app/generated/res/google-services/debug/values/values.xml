@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://blindchat-4edd4-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">38292541591</string>
+    <string name="google_api_key" translatable="false">AIzaSyBbSLwg4aj96QzZCjxWUm94cgimBVq1zos</string>
+    <string name="google_app_id" translatable="false">1:38292541591:android:24acfcb2cf21a05a22d9d2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBbSLwg4aj96QzZCjxWUm94cgimBVq1zos</string>
+    <string name="google_storage_bucket" translatable="false">blindchat-4edd4.firebasestorage.app</string>
+    <string name="project_id" translatable="false">blindchat-4edd4</string>
+</resources>
